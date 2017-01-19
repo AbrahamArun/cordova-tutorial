@@ -26,6 +26,8 @@ A quick intro into cordova
   - [ ] `cordova build android`
   - [ ] `cordova run android`
   - [ ] Add a button in the html and attach a click listener in javascript to show a basic interaction.
+  - [ ] Directory structure
+
 
 5. Distributions
   - [ ] [Phone Gap](http://phonegap.com/)
