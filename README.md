@@ -14,6 +14,19 @@ A quick intro into cordova
   - [ ] Plugins?
   - [ ] How to write a custom plugin?
 
-4. Distributions
+4. How to get started?
+
+  Pre-requisites
+  - [ ] Basic HTML, CSS and Javscript knowledge
+  - [ ] Install: node, cordova cli, platform sdk's (android, ios etc.)
+
+  Example Hello Worlld App:
+  - [ ] `cordova create foo com.example.foo Foo`
+  - [ ] `cordova platform add android --save`
+  - [ ] `cordova build android`
+  - [ ] `cordova run android`
+  - [ ] Add a button in the html and attach a click listener in javascript to show a basic interaction.
+
+5. Distributions
   - [ ] [Phone Gap](http://phonegap.com/)
   - [ ] [Ionic](http://ionic.io/) - Has a lot of standard controls that mimics native controls and it comes with Angular
