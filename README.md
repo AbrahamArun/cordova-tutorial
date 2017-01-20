@@ -31,8 +31,11 @@ A quick intro into cordova
   - [ ] Directory structure? Open individual platform specific code to dive into the core implementation
 
 5. Plugins?
+  - [ ] https://cordova.apache.org/plugins/
+      - [ ] `cordova plugin add cordova-plugin-x-toast`
+      - [ ] `cordova prepare`
   - [ ] How to write a custom plugin?
-  - [ ] Example 1: https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin (Clone url git@github.com:EddyVerbruggen/Toast-PhoneGap-Plugin.git)
+  - [ ] Check an existing plugin code to understand: Example 1: https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin (Clone url git@github.com:EddyVerbruggen/Toast-PhoneGap-Plugin.git)
 
 6. Distributions
   - [ ] [Phone Gap](http://phonegap.com/)
